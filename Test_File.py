@@ -1,4 +1,4 @@
-#Git sync test
+#Git synced
 import pygame
 from pygame import time
 def main():
